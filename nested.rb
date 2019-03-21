@@ -39,7 +39,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-     binding.pry
+    # binding.pry
      programmer_hash[:alan_kay][:known_for]
 end
 
