@@ -16,7 +16,7 @@ def hopper
           :languages => ["C"]
         }
      }
-programmer_hash 
+binding.pry
 
 end
 
